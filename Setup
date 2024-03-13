@@ -13,3 +13,6 @@ Done. Now run:
   npm install
   npm run dev
 open the localhost and you should see "Vite + React"
+
+
+I also installed to mange webforms: npm install react-hook-form
