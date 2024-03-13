@@ -1,12 +1,12 @@
 Setup for the website
 
-
+I used this tutorial https://www.youtube.com/watch?v=SqcY0GlETPk&t=1497s
 
 things to install:
 1. download NodeJS: https://nodejs.org/en
 2. on vsCode terminal: npm create vite@4.1.0
 3. select react
-3. select javascript
+3. select typescript
 4. now follow the instructions on screen. Mine said: 
 Done. Now run:
   cd FlatFinder
