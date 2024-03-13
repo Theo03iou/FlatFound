@@ -1,0 +1,15 @@
+Setup for the website
+
+
+
+things to install:
+1. download NodeJS: https://nodejs.org/en
+2. on vsCode terminal: npm create vite@4.1.0
+3. select react
+3. select javascript
+4. now follow the instructions on screen. Mine said: 
+Done. Now run:
+  cd FlatFinder
+  npm install
+  npm run dev
+open the localhost and you should see "Vite + React"
