@@ -16,3 +16,17 @@ open the localhost and you should see "Vite + React"
 
 
 I also installed to mange webforms: npm install react-hook-form
+
+----------/\ thats how I created the website /\ -------------
+
+To now edit what I started you should do:
+git clone https://github.com/Theo03iou/FlatFound.git
+
+cd FlatFound
+
+git add .
+use . to add everything
+
+git commit -m "Your descriptive commit message here"
+
+git push origin master
